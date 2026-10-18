@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlivattoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlivattoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -29,6 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="30" alt="TryHackMe logo" />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Cybersecurity-2EC866?style=flat&logo=tryhackme&logoColor=white" height="30" alt="Cybersecurity badge" />
 </div>
 
 ###
@@ -43,6 +41,9 @@
   <a href="https://www.hackerrank.com/profile/mat_franco" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://tryhackme.com/p/SEU_USUARIO" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" height="35" alt="TryHackMe logo" />
+</a>
 </div>
 
 ###
@@ -52,11 +53,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OlivattoDev/OlivattoDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OlivattoDev/OlivattoDev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/OlivattoDev/count.svg?"  />
-</div>
 
 ###
